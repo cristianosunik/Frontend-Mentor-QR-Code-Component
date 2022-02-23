@@ -41,12 +41,12 @@ body{
     flex-direction: column;
     padding: 1.255rem;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 0.625rem;
+    border-radius: 1.25rem;
 }
 
 .qr-img{
     width: 100%;
-    border-radius: 0.625rem; 
+    border-radius: 1.25rem; 
 }
 
 h2{
